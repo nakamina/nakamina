@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:-->
 - 🍞 I’m currently working on bakery.
-- 😃 I’m currently learning Python, go.
+- 😃 I’m currently learning Python, Golang.
 
